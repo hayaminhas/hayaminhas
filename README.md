@@ -27,7 +27,7 @@ I'm a London-based junior software developer having recently graduated from the 
 </div>
 <h3> 📧 Contact Me:</h3>
 <div>
-<a href="linkedin.com/in/haya-minhas">
+<a href="http://www.linkedin.com/in/haya-minhas">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/hayaminhas"> 
