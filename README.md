@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a London-based junior software developer having recently graduated from the School of Code Bootcamp. I enjoyed the challenge and adventure of intense coding and collaborating in groups of like-minded junior developers.
-<br>🔭 I’m currently working on a charity website.<br>🌱 I’m currently furthering my frontent knowledge of React and NextJS. <br>🤝 I’m looking to improve my skills in CSS and Testing.<br>🎨I enjoy cooking, hiking 🌷 and camping 🍃. <br>⚡ Fun fact: I love using squeegees whenever I can!<br>
+<br>🔭 I’m currently working on a charity website.<br>🌱 I’m currently furthering my frontent knowledge of React and NextJS. <br>🤝 I’m looking to improve my skills in CSS and Testing.<br>🎨I enjoy cooking, hiking 🌷 and camping 🍃. <br>⚡ Fun fact: I enjoy watching black & white movies!<br>
 
 ---------------------------------------
 
